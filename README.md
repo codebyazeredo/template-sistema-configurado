@@ -1,0 +1,1 @@
+Template basico de projeto laravel para servir como coringa no desenvolvimento de novas aplicacoes
